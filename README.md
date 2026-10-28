@@ -12,10 +12,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%230f2142.svg?style=plastic&logo=sqlite&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 ༒︎⊰ ⋆⁺₊⋆⋆⁺₊⋆ ━━⊱༒︎ • ༒︎⊰━━ ⋆⁺₊⋆⋆⁺₊⋆ ━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆⋆⁺₊⋆ ━━⊱༒︎ • ༒︎⊰━━ ⋆⁺₊⋆⋆⁺₊⋆ ⊱༒︎
-[![GitHub Streak](https://nirzak-streak-stats.onrender.com?user=l4hgs&theme=dark&border_radius=4&date_format=%5BY.%5Dn.j&card_width=490&card_height=100)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.onrender.com?user=l4hgs&theme=dark&border_radius=4&date_format=%5BY.%5Dn.j&card_width=400&card_height=100)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=l4hgs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ⠲⢶⣶⠒⠒⠿⣶⠒⠚⢿⡒⠛⣻⣿⣿⣿⡛⠛⢻⡟⠛⣻⠟⢻⣿⡿⣿⠉⠉⠛⢿⡛⠛⢻⡟⠛⢿⣿⣿⣿⣿⣹⡿⠋⣿⠟⠛⣻⠟⢻⡿⠛⠿⣿⠻⢿⡛⢿⡛⢿⣿⣿⣿⣿⠟⣻⠟ 
 ⠀⠀⠹⣧⠀⠀⢹⡆⠀⢸⣧⡾⣻⣿⣧⠀⠙⣳⣾⡀⢰⠏⢠⡿⢸⠀⠘⢷⡀⠀⠀⢿⡀⠀⢻⣴⠟⣿⣽⣽⣿⠟⢷⣤⡇⠀⢠⡏⢠⡟⠀⠀⠀⠈⣇⠈⣧⢈⣷⣟⢻⣾⣹⣿⣼⠿⣦⡾⠁⠀⠀
